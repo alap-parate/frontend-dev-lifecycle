@@ -10,9 +10,7 @@ function App() {
           alert(formatCurrency(1000000));
         }}
       />
-      {/* <div onClick={() => console.log("hi, im not tested.")}>
-        Something not tested
-      </div> */}
+      <p>A new feature!</p>
     </>
   );
 }
